@@ -14,7 +14,7 @@ public class datatype {
         //int 4 
         //long 8
         //float 4
-        //double 8
+        //double 8 
 
     }
     
